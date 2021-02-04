@@ -1,0 +1,17 @@
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/OrderController.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/CustomerService.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/ProductController.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/ProductRepository.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Address.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/OrderRepository.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Product.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Customer.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/OrderService.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/App.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/CustomerController.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/ProductService.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Orders.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/AddressRepository.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/CustomerRepository.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/OrderStatus.java
+/Users/lisasmith/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/MembershipLevel.java
