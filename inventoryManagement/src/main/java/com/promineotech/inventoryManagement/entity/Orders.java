@@ -70,14 +70,6 @@ public class Orders {
 		this.invoiceAmount = invoiceAmount;
 	}
 
-	public OrderStatus getStatus() {
-		return status;
-	}
-
-	public void setStatus(OrderStatus status) {
-		this.status = status;
-	}
-
 	@ManyToMany(mappedBy = "orders")
 	public Set<Product> getProducts() {
 		return products;
@@ -97,6 +89,14 @@ public class Orders {
 		this.customer = customer;
 	}
 
+
+	public OrderStatus getStatus() {
+		return status;
+	}
+
+	public void setStatus(OrderStatus status) {
+		this.status = status;
+	}
 	
 	
 	

@@ -59,8 +59,8 @@ public class Product {
 	}
 	@ManyToMany(cascade = CascadeType.ALL)
 	@JoinTable(name = "product_order",
-		joinColumns = @JoinColumn(name = "orderId", referencedColumnName = "id"),
-		inverseJoinColumns = @JoinColumn(name = "productId", referencedColumnName = "id"))
+		joinColumns = @JoinColumn(name = "productId", referencedColumnName = "id"),
+		inverseJoinColumns = @JoinColumn(name = "orderId", referencedColumnName = "id"))
 	public Set<Orders> getOrders() {
 		return orders;
 	}

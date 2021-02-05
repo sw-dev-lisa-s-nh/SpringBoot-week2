@@ -24,7 +24,7 @@ public class OrderController {
 	private OrderService service;
 	
 	@RequestMapping(method=RequestMethod.POST)
-	public ResponseEntity<Object> createCustomer(@RequestBody Set<Long> productIds, @PathVariable Long id) {
+	public ResponseEntity<Object> createOrder(@RequestBody Set<Long> productIds, @PathVariable Long id) {
 		try {
 			return new ResponseEntity<Object>(service.submitNewOrder(productIds,  id), HttpStatus.CREATED);
 		} catch (Exception e) {
